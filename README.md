@@ -14,7 +14,11 @@ Key Responsibilities:
 
 
 Technologies Used: 
+
 -Python 
+
 -TensorFlow
+
 -Keras
+
 -Jupyter Notebook
